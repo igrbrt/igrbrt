@@ -2,7 +2,7 @@
 
 ⚡ Just a Computer Scientist with a Master's Degree in Computer Science.
 
-Linkedin: https://www.linkedin.com/in/igrbrt/
+Linkedin: https://www.linkedin.com/in/igor-br/
 <!--
 **igrbrt/igrbrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
